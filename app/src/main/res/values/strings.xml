@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI calculator G3</string>
+    <string name="weight">น้ำหนัก (กิโลกรัม)</string>
+    <string name="height">ส่วนสูง (เซนติเมตร)</string>
+    <string name="BMI">ค่าดัชนีมวลกาย</string>
+    <string name ="underweight">น้ำหนักผอม</string>
+    <string name ="healthy">สุขภาพดี</string>
+    <string name ="obesitylv1">โรคอ้วนระดับ 1</string>
+    <string name ="obesitylv2">โรคอ้วนระดับ 2</string>
+    <string name ="obesitylv3">โรคอ้วนระดับ 3</string>
+    <string name="classification">อยู่ในเกณฑ์</string>
+    <string name="cal_btn">คำนวน</string>
+    <string name="hint">แตะตรงนี้</string>
+    <string name="logo">logo</string>
+</resources>

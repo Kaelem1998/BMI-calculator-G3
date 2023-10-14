@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI calculator G3</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="height">Height (cm)</string>
+    <string name="BMI">Body Mass Index</string>
+    <string name ="underweight">Underweight</string>
+    <string name ="healthy">Healthy</string>
+    <string name ="obesitylv1">Obesity Level 1</string>
+    <string name ="obesitylv2">Obesity Level 2</string>
+    <string name ="obesitylv3">Obesity Level 3</string>
+    <string name="classification">Nutritional status</string>
+    <string name="cal_btn">Calculate</string>
+    <string name="hint">Click here!</string>
+    <string name="logo">logo</string>
+</resources>
